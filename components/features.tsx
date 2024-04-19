@@ -192,7 +192,8 @@ export default function Features() {
                         src={FeaturesBg1}
                         width={500}
                         height="462"
-                        alt="Features bg"
+                        alt="Features bg 1"
+                        unoptimized
                       />
                     </div>
                   </Transition>
@@ -216,7 +217,8 @@ export default function Features() {
                         src={FeaturesBg2}
                         width={500}
                         height="462"
-                        alt="Features bg"
+                        alt="Features bg 2"
+                        unoptimized
                       />
                     </div>
                   </Transition>
@@ -240,7 +242,8 @@ export default function Features() {
                         src={FeaturesBg3}
                         width={500}
                         height="462"
-                        alt="Features bg"
+                        alt="Features bg 3"
+                        unoptimized
                       />
                     </div>
                   </Transition>
